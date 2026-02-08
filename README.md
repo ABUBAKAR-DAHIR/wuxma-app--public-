@@ -103,7 +103,7 @@ Replace with your latest numbers when ready.
 - **Web app** for onboarding and full‑access unlocks  
 
 <p align="center">
-  <img src="public/demos/plugin_screenshot.png" alt="Wuxma plugin screenshot" width="900">
+  <img src="plugin_screenshot.png" alt="Wuxma plugin screenshot" width="900">
 </p>
 
 
