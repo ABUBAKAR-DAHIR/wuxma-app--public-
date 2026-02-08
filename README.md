@@ -4,8 +4,8 @@
 <br/>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="public/wuxma_dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="public/favicon-logo.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="wuxma_dark_mode.png">
+    <source media="(prefers-color-scheme: light)" srcset="wuxma_2.svg">
     <img src="public/favicon-logo.svg" alt="Wuxma Logo" width="160">
   </picture>
 </p>
